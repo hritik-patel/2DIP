@@ -13,7 +13,7 @@ Template for manual new data entries:
         'country': '',              #Country of origin of search term in ''
     },
     
-Please enter this inside the [] brackets at the start and end, not outside the other data.
+Please enter this inside the [] brackets at the start and end, not outside the other data. The template can only be properly used when opened with a proper text editor, it appears strange in the github web view.
 
 I hope you enjoy the game I have created!
 - Hritik
